@@ -1,0 +1,5 @@
+2020-04--14 11:49:04.762 [main] INFO  cn.zack.Slf4jApplication - Starting Slf4jApplication on LAPTOP-6KH8ENIF with PID 13028 (E:\IdeaWorkSpace\slf4jdemo2\target\classes started by 张云龙 in E:\IdeaWorkSpace\slf4jdemo2)
+2020-04--14 11:49:04.764 [main] DEBUG cn.zack.Slf4jApplication - Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2020-04--14 11:49:04.765 [main] INFO  cn.zack.Slf4jApplication - No active profile set, falling back to default profiles: default
+2020-04--14 11:49:06.387 [main] INFO  cn.zack.Slf4jApplication - Started Slf4jApplication in 2.23 seconds (JVM running for 3.959)
+2020-04--14 11:50:38.148 [http-nio-8080-exec-3] INFO  cn.zack.controller.UserController - 调用test1================,username:user1,password:psswd1
